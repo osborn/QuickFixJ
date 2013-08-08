@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/quickfixj/lib/mina-core-1.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/quickfixj/lib/mina-core-1.1.7-sources.jar"/>
+	<classpathentry kind="lib" path="C:/quickfixj/lib/slf4j-api-1.6.3.jar"/>
+	<classpathentry kind="lib" path="C:/quickfixj/lib/slf4j-jdk14-1.6.3.jar"/>
+	<classpathentry kind="lib" path="C:/quickfixj/quickfixj-all-1.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/quickfixj/quickfixj-core-1.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/quickfixj/quickfixj-examples-1.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/quickfixj/quickfixj-msg-fix40-1.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/quickfixj/quickfixj-msg-fix41-1.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/quickfixj/quickfixj-msg-fix42-1.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/quickfixj/quickfixj-msg-fix43-1.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/quickfixj/quickfixj-msg-fix44-1.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/quickfixj/quickfixj-msg-fix50-1.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/quickfixj/quickfixj-msg-fixt11-1.5.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
